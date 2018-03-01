@@ -5,6 +5,7 @@
 	<groupId>com.zikl00</groupId>
 	<artifactId>test_case</artifactId>
 	<version>0.0.1</version>
+	<description>testovací pøíklad</description>
 	<name>testCase</name>
 <dependencies>
 		<dependency>
